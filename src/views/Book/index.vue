@@ -2,7 +2,7 @@
   <v-container grid-list-md>
     <v-layout row wrap>
       <v-btn color="success">
-        <v-icon>home</v-icon>
+        Book
       </v-btn>
     </v-layout>
   </v-container>
