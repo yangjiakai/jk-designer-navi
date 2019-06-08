@@ -36,7 +36,7 @@
     </template>
     <v-layout row wrap>
       <v-btn color="success">
-        UI
+        new UI
       </v-btn>
     </v-layout>
   </v-container>
